@@ -1,0 +1,29 @@
+name: PUSH Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  production:
+    name: Starting project workflow steps
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup PHP
+        uses: shivammathur/setup-php@master
+        with:
+          php-version: 8.0
+          extension-csv: mbstring, bcmath
+      - name: Deploying project to AWS ubuntu ec2 instance
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+          ARGS: "-rltgoDzvO"
+          SOURCE: "."
+          REMOTE_HOST: ${{ secrets.AWS_REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.AWS_REMOTE_USER }}
+          TARGET: "/var/www/html"
+          EXCLUDE: ".git/, .github/"

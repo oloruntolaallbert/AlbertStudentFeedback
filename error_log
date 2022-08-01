@@ -1,0 +1,48 @@
+[28-Jun-2022 09:17:09 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/debuwnjs/studentfeedback.debugactive.com/Online_feedback/dbconfig.php on line 2
+[28-Jun-2022 09:17:09 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/debuwnjs/studentfeedback.debugactive.com/Online_feedback/dbconfig.php on line 2
+[28-Jun-2022 09:17:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/debuwnjs/studentfeedback.debugactive.com/Online_feedback/dbconfig.php on line 2
+[28-Jun-2022 09:17:26 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/debuwnjs/studentfeedback.debugactive.com/Online_feedback/dbconfig.php on line 2
+[28-Jun-2022 09:21:22 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/debuwnjs/studentfeedback.debugactive.com/Online_feedback/dbconfig.php on line 2
+[28-Jun-2022 09:21:22 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/debuwnjs/studentfeedback.debugactive.com/Online_feedback/dbconfig.php on line 2
+[29-Jun-2022 17:43:02 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'debuwnjs_student'@'localhost' to database 'feed' in /home/debuwnjs/studentfeedback.debugactive.com/dbconfig.php on line 2
+[29-Jun-2022 17:43:02 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/debuwnjs/studentfeedback.debugactive.com/dbconfig.php on line 2
+[11-Jul-2022 03:56:51 America/New_York] PHP Notice:  Undefined variable: yy in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[11-Jul-2022 03:56:51 America/New_York] PHP Notice:  Undefined variable: mm in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[11-Jul-2022 03:56:51 America/New_York] PHP Notice:  Undefined variable: dd in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[11-Jul-2022 05:09:07 America/New_York] PHP Notice:  Undefined variable: yy in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[11-Jul-2022 05:09:07 America/New_York] PHP Notice:  Undefined variable: mm in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[11-Jul-2022 05:09:07 America/New_York] PHP Notice:  Undefined variable: dd in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[12-Jul-2022 12:38:30 America/New_York] PHP Notice:  Undefined variable: yy in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[12-Jul-2022 12:38:30 America/New_York] PHP Notice:  Undefined variable: mm in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[12-Jul-2022 12:38:30 America/New_York] PHP Notice:  Undefined variable: dd in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[15-Jul-2022 06:18:12 America/New_York] PHP Notice:  Undefined variable: yy in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[15-Jul-2022 06:18:12 America/New_York] PHP Notice:  Undefined variable: mm in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[15-Jul-2022 06:18:12 America/New_York] PHP Notice:  Undefined variable: dd in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[15-Jul-2022 06:18:12 America/New_York] PHP Notice:  Undefined variable: hob in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 20
+[15-Jul-2022 06:18:12 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 20
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Undefined variable: yy in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Undefined variable: mm in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Undefined variable: dd in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Undefined variable: hob in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 20
+[18-Jul-2022 04:57:39 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 20
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Undefined index: img in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 23
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 23
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Undefined variable: mob in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 30
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Undefined variable: gen in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 30
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Undefined index: img in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 36
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 36
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Undefined index: img in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 36
+[18-Jul-2022 04:57:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 36
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Undefined variable: yy in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Undefined variable: mm in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Undefined variable: dd in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 17
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Undefined variable: hob in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 20
+[18-Jul-2022 06:16:34 America/New_York] PHP Warning:  implode(): Invalid arguments passed in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 20
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Undefined index: img in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 23
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 23
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Undefined variable: mob in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 30
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Undefined variable: gen in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 30
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Undefined index: img in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 36
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 36
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Undefined index: img in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 36
+[18-Jul-2022 06:16:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/debuwnjs/studentfeedback.debugactive.com/registration.php on line 36
